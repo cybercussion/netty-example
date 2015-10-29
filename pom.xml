@@ -8,7 +8,6 @@
   <name>netty-example</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>
-    <repositories>
       <repository>
         <id>central</id>
         <name>libs-release</name>
@@ -19,7 +18,6 @@
         <name>libs-snapshot</name>
         <url>http://192.168.99.101:8081/artifactory/libs-snapshot</url>
       </snapshotRepository>
-    </repositories>
   </distributionManagement>
   <dependencies>
     <dependency>
